@@ -1,0 +1,58 @@
+{
+  "basic_info": {
+    "name": "Ajayi snoz",
+    "titles": ["Software Engineer"],
+    "social": [
+      {
+        "name": "linkdln",
+        "url": "https://www.linkedin.com/in/elijah-snoz-1a6901180",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/isrealleee",
+        "class": "fab fa-instagram"
+      }
+    ],
+    "image": "lee.jpeg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Modelling",
+        "class": "",
+        "level": "95"
+      },
+      {
+        "name": "Musician",
+        "class": "",
+        "level": "95"
+      },
+      {
+        "name": "Writter",
+        "class": "",
+        "level": "80"
+      },
+      {
+        "name": "Dancer",
+        "class": "",
+        "level": "90"
+      },
+      {
+        "name": "Designer",
+        "class": "",
+        "level": "70"
+      },
+      {
+        "name": "Event planner",
+        "class": "",
+        "level": "85"
+      },
+      {
+        "name": "Photography",
+        "class": "",
+        "level": "65"
+      }
+    ]
+  }
+}
